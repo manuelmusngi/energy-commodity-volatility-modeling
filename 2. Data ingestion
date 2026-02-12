@@ -1,6 +1,6 @@
 ## 2. Data ingestion
 
-We load:
+Load:
 
 - Daily spot prices and front‑month futures
 - Futures curve snapshots (e.g., M1–M12)
@@ -38,3 +38,28 @@ funds = load_fundamentals()
 weather = load_weather()
 
 prices.head()
+
+
+#### Merge to panel
+
+def build_daily_panel(prices, curve, storage, funds, weather) -> pd.DataFrame:
+    idx = prices.index  # main daily calendar
+    storage_daily = storage.reindex(idx).ffill()
+    funds_daily = funds.reindex(idx).ffill()
+    weather_daily = weather.reindex(idx).ffill()
+    curve_daily = curve.reindex(idx).ffill()
+
+    panel = (
+        prices.join([curve_daily, storage_daily, funds_daily, weather_daily], how="left")
+              .dropna()
+    )
+    return panel
+
+panel = build_daily_panel(prices, curve, storage, funds, weather)
+panel.head()
+
+
+
+
+
+
