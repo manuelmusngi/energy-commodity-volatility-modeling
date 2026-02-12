@@ -40,3 +40,13 @@ for train_idx, test_idx in tscv.split(X):
 print("RF RMSE by split:", rf_rmse_scores)
 print("RF mean RMSE:", np.mean(rf_rmse_scores))
 
+# optional HAR regression
+har_cols = [c for c in ["rv_5d", "rv_10d", "storage_surprise", "m1_m12_slope"] if c in features.columns]
+
+X_har = sm.add_constant(features[har_cols])
+y_har = y
+
+har_model = sm.OLS(y_har, X_har, missing="drop").fit()
+print(har_model.summary())
+
+
