@@ -20,3 +20,15 @@ PROJECT_ROOT = Path(".").resolve()
 DATA_RAW = PROJECT_ROOT / "data" / "raw"
 DATA_PROCESSED = PROJECT_ROOT / "data" / "processed"
 CONFIG_DIR = PROJECT_ROOT / "config"
+
+#### Config Loader
+
+def load_yaml_config(path: Path) -> dict:
+    with open(path, "r") as f:
+        return yaml.safe_load(f)
+
+data_cfg = load_yaml_config(CONFIG_DIR / "data_config.yaml")
+feat_cfg = load_yaml_config(CONFIG_DIR / "feature_config.yaml")
+model_cfg = load_yaml_config(CONFIG_DIR / "model_config.yaml")
+
+data_cfg, feat_cfg, model_cfg
