@@ -1,0 +1,12 @@
+#### Natural Gas Volatility Forecasting & Hedge Timing
+
+End‑to‑end pipeline for forecasting Henry Hub natural gas volatility using
+fundamentals, storage, and market signals, and mapping forecasts into
+hedge timing and risk views.
+
+####  Literature Reference
+
+- Qiu et al. (2024), *Stochastic Path‑Dependent Volatility Models for Price‑Storage Dynamics in Natural Gas Markets* (arXiv:2406.16400).
+- SSRN literature on natural gas storage surprises, fundamentals, and hedging effectiveness.
+
+We implement a reduced‑form, data‑driven framework inspired by these ideas.
