@@ -12,7 +12,7 @@ Build an end‑to‑end volatility forecasting system that:
 - Bridges **academic research** and **real‑world risk workflows**
 
 
-#### 🧠 Research Foundation
+#### 🧠 Research Reference Foundation
 Grounded in peer‑reviewed and working‑paper literature on natural gas markets, storage dynamics, and volatility modeling, including:
 
 - **Stochastic Path‑Dependent Volatility Models for Price‑Storage Dynamics in Natural Gas Markets** (arXiv)
