@@ -28,12 +28,6 @@ The implementation reflects a **reduced‑form, data‑driven interpretation** o
 
 All analytics are orchestrated within a **single, fully documented Jupyter notebook**, making the project easy to review, extend, and adapt.
 
-#### 🎯 Intended Audience
-- Quantitative researchers
-- Energy traders and analysts
-- Risk managers and portfolio strategists
-- Data scientists exploring commodity volatility
-
 #### 🚀 Key Takeaway
 This repository demonstrates how **academic volatility concepts** can be transformed into a **practical hedge‑timing and risk analytics tool** for natural gas markets—balancing rigor, interpretability, and operational relevance.
 
