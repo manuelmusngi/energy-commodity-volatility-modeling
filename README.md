@@ -22,6 +22,8 @@ Grounded in peer‑reviewed and working‑paper literature on natural gas market
 - Academic and SSRN research on **storage surprises, fundamentals, and hedging effectiveness**
  
   [Natural gas price, market fundamentals and hedging effectiveness](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/Natural%20Gas%20Price%2C%20Market%20Fundamentals%20and%20Hedging%20Effectiveness.pdf )
+
+  [Optimal Hedging Strategies for Natural Gas](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/Optimal_Hedging_Strategies_for_Natural_Gas.pdf)
    
 The implementation reflects a **reduced‑form, data‑driven interpretation** of these models suitable for operational use.
 
