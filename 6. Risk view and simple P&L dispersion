@@ -1,13 +1,13 @@
 #### 6. Risk view: simple P&L dispersion
 
-Approximate daily P&L for a 1‑unit exposure as:
+# Approximate daily P&L for a 1‑unit exposure as:
 
-P&L ≈ spot_return
+# P&L ≈ spot_return
 
-Using forecasted volatility as a proxy for dispersion, we summarize P&L
-statistics by volatility regime as a simple risk lens.
+# Using forecasted volatility as a proxy for dispersion, we summarize P&L
+# statistics by volatility regime as a simple risk lens.
 
-# risk stats
+#### risk stats
 rets = np.log(features["spot"]).diff()
 risk_df = regime_df.join(rets.rename("spot_ret")).dropna()
 
