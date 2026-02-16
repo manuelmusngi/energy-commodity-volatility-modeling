@@ -1,7 +1,6 @@
 #### 6. Risk view: simple P&L dispersion
 
 # Approximate daily P&L for a 1‑unit exposure as:
-
 # P&L ≈ spot_return
 
 # Using forecasted volatility as a proxy for dispersion, we summarize P&L
