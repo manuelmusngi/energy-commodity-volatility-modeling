@@ -1,14 +1,14 @@
-## 2. Data ingestion
+# 2. Data ingestion
 
-Load:
+# Load:
 
-- Daily spot prices and front‑month futures
-- Futures curve snapshots (e.g., M1–M12)
-- Weekly storage levels
-- Fundamentals (production, demand, LNG exports)
-- Weather proxies (HDD/CDD)
+# - Daily spot prices and front‑month futures
+# - Futures curve snapshots (e.g., M1–M12)
+# - Weekly storage levels
+# - Fundamentals (production, demand, LNG exports)
+# - Weather proxies (HDD/CDD)
 
-All series are merged into a common daily panel.
+# All series are merged into a common daily panel.
 
 def load_prices() -> pd.DataFrame:
     df = pd.read_csv(DATA_RAW / data_cfg["prices_file"], parse_dates=["date"])
@@ -40,7 +40,7 @@ weather = load_weather()
 prices.head()
 
 
-#### Merge to panel
+#Merge to panel
 
 def build_daily_panel(prices, curve, storage, funds, weather) -> pd.DataFrame:
     idx = prices.index  # main daily calendar
