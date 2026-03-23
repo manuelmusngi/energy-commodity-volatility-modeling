@@ -1,0 +1,9 @@
+regimes:
+  quantiles: { low: 0.40, high: 0.70 }
+  labels: { low: "low", medium: "medium", high: "high" }
+
+hedge_bias:
+  mapping: { low: "wait_or_stagger", medium: "neutral", high: "hedge_now" }
+
+risk:
+  pnl_proxy: { method: "log_return", exposure_units: 1.0 }
