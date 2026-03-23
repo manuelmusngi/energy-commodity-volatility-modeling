@@ -1,0 +1,20 @@
+paths:
+  raw_dir: "data/raw"
+  interim_dir: "data/interim"
+  processed_dir: "data/processed"
+
+files:
+  prices: "ng_prices.csv"
+  futures_curve: "ng_futures_curve.csv"
+  storage: "storage_eia_weekly.csv"
+  fundamentals: "fundamentals_balances.csv"
+  weather: "weather_degree_days.csv"
+
+schema:
+  prices: { date: "date", spot: "spot" }
+  futures_curve:
+    date: "date"
+    months: ["M1","M2","M3","M4","M5","M6","M7","M8","M9","M10","M11","M12"]
+  storage: { date: "date", storage: "storage" }
+  fundamentals: { date: "date", prod: "prod", demand: "demand", lng_exports: "lng_exports" }
+  weather: { date: "date", hdd: "hdd", cdd: "cdd" }
