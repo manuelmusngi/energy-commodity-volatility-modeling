@@ -69,7 +69,7 @@ A modular, notebook‑centric design that mirrors production analytics systems:
   [6. Risk view and simple P&L dispersion](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/6.%20Risk%20view%20and%20simple%20P%26L%20dispersion)
 
 
-#### 📁 Project Structure
+#### 🏗️ Project Architecture
 ng-volatility-forecasting/\
 ├── README.md\
 ├── pyproject.toml\
