@@ -90,7 +90,7 @@ ng-volatility-forecasting/\
 │   └── run_pipeline.py\
 ├── src/\
 │   └── ng_vol/\
-│       ├── __init__.py\
+│       ├── [__init__.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/init.py)\
 │       ├── config/\
 │       │   └── [loader.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/config/loader.py)\
 │       ├── io/\
