@@ -101,7 +101,7 @@ ng-volatility-forecasting/\
 │       ├── features/\
 │       │   ├── [volatility.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/features/volatility.py)\
 │       │   ├── [curve.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/features/curve.py)\
-│       │   ├── storage.py\
+│       │   ├── [storage.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/features/storage.py)\
 │       │   └── weather.py\
 │       ├── models/\
 │       │   ├── base.py\
