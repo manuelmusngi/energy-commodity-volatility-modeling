@@ -99,7 +99,7 @@ ng-volatility-forecasting/\
 │       ├── preprocessing/\
 │       │   └── [align.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/preprocessing/align.py)\
 │       ├── features/\
-│       │   ├── volatility.py\
+│       │   ├── [volatility.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/features/volatility.py)\
 │       │   ├── curve.py\
 │       │   ├── storage.py\
 │       │   └── weather.py\
