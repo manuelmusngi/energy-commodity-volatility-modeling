@@ -104,7 +104,7 @@ ng-volatility-forecasting/\
 │       │   ├── [storage.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/features/storage.py)\
 │       │   └── [weather.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/features/weather.py)\
 │       ├── models/\
-│       │   ├── base.py\
+│       │   ├── [base.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/models/base.py)\
 │       │   ├── har.py\
 │       │   └── tree.py\
 │       ├── forecasting/\
