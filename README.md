@@ -97,7 +97,7 @@ ng-volatility-forecasting/\
 │       │   ├── [ingestion.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/io/ingestion.py)\
 │       │   └── [validation.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/io/validation.py)\
 │       ├── preprocessing/\
-│       │   └── align.py\
+│       │   └── [align.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/preprocessing/align.py)\
 │       ├── features/\
 │       │   ├── volatility.py\
 │       │   ├── curve.py\
