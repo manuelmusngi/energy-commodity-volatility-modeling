@@ -92,10 +92,10 @@ ng-volatility-forecasting/\
 │   └── ng_vol/\
 │       ├── __init__.py\
 │       ├── config/\
-│       │   └── loader.py\
+│       │   └── [loader.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/config/loader.py)\
 │       ├── io/\
-│       │   ├── ingestion.py\
-│       │   └── validation.py\
+│       │   ├── [ingestion.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/io/ingestion.py)\
+│       │   └── [validation.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/io/validation.py)\
 │       ├── preprocessing/\
 │       │   └── align.py\
 │       ├── features/\
