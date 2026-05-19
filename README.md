@@ -72,12 +72,12 @@ A modular, notebook‑centric design that mirrors production analytics systems:
 #### 🏗️ Project Architecture
 ng-volatility-forecasting/\
 ├── README.md\
-├── pyproject.toml\
+├── [pyproject.toml](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/pyproject.toml)\
 ├── config/\
-│   ├── data_sources.yaml\
-│   ├── features.yaml\
-│   ├── models.yaml\
-│   └── backtest.yaml\
+│   ├── [data_sources.yaml](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/pyproject.toml)\
+│   ├── [features.yaml](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/config/features.yaml)\
+│   ├── [models.yaml](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/config/models.yaml)\
+│   └── [backtest.yaml](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/config/backtest.yaml)\
 ├── data/\
 │   ├── raw/\
 │   ├── interim/\
