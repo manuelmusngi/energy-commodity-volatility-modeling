@@ -114,8 +114,8 @@ ng-volatility-forecasting/\
 │       ├── risk/\
 │       │   └── [pnl_proxy.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/risk/pnl_proxy.py)\
 │       ├── reporting/\
-│       │   └── plots.py\
-│       └── pipeline.py\
+│       │   └── [plots.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/reporting/plots.py)\
+│       └── [pipeline.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/pipeline.py)\
 └── tests/\
     ├── test_ingestion.py\
     ├── test_features.py\
