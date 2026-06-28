@@ -64,7 +64,7 @@ A modular, notebook‑centric design that mirrors production analytics systems:
 
 
 - ⚖️ Risk Interpretation 
-  Linking volatility forecasts to P&L dispersion and risk views
+  - Linking volatility forecasts to P&L dispersion and risk views
 
   [6. Risk view and simple P&L dispersion](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/6.%20Risk%20view%20and%20simple%20P%26L%20dispersion)
 
