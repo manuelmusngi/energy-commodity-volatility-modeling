@@ -112,7 +112,7 @@ ng-volatility-forecasting/\
 │       ├── regimes/\
 │       │   └── [classifier.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/regimes/classifier.py)\
 │       ├── risk/\
-│       │   └── pnl_proxy.py\
+│       │   └── [pnl_proxy.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/risk/pnl_proxy.py)\
 │       ├── reporting/\
 │       │   └── plots.py\
 │       └── pipeline.py\
