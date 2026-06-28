@@ -108,9 +108,9 @@ ng-volatility-forecasting/\
 │       │   ├── [har.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/models/har.py)\
 │       │   └── [tree.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/models/tree.py)\
 │       ├── forecasting/\
-│       │   └── engine.py\
+│       │   └── [engine.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/forecasting/engine.py)\
 │       ├── regimes/\
-│       │   └── classifier.py\
+│       │   └── [classifier.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/regimes/classifier.py)\
 │       ├── risk/\
 │       │   └── pnl_proxy.py\
 │       ├── reporting/\
