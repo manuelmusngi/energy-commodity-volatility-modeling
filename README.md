@@ -41,7 +41,7 @@ A modular, notebook‑centric design that mirrors production analytics systems:
  - [1. Imports, paths, and config](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/1.%20Imports%2C%20paths%2C%20and%20config)
 
 - 📥 Data Ingestion  
-  futures prices, futures curves, storage levels, fundamentals, and weather proxies
+  Futures prices, futures curves, storage levels, fundamentals, and weather proxies
   
   [2. Data ingestion](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/2.%20Data%20ingestion)
 
