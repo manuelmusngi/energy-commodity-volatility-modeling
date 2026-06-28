@@ -117,9 +117,9 @@ ng-volatility-forecasting/\
 │       │   └── [plots.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/reporting/plots.py)\
 │       └── [pipeline.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/src/ng_vol/pipeline.py)\
 └── tests/\
-    ├── test_ingestion.py\
-    ├── test_features.py\
-    └── test_models.py
+    ├── [test_ingestion.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/tests/test_ingestion.py)\
+    ├── [test_features.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/tests/test_features.py)\
+    └── [test_models.py](https://github.com/manuelmusngi/energy-commodity-volatility-modeling/blob/main/ng-volatility-forecasting/tests/test_models.py)
 
 
 #### License
