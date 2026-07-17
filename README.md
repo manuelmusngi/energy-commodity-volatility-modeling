@@ -1,14 +1,10 @@
 #### 🌐 Natural Gas Volatility Forecasting Inference
 
-![Domain](https://img.shields.io/badge/domain-Natural%20Gas%20Volatility-0b7285)
-![Market](https://img.shields.io/badge/market-Henry%20Hub-1864ab)
-![Focus](https://img.shields.io/badge/focus-Forecasting%20Inference-5c7cfa)
-![Modeling](https://img.shields.io/badge/modeling-GARCH%2FStochastic%20Volatility-f59f00)
-
 ![Repo](https://img.shields.io/badge/repo-energy--commodity--volatility--modeling-171717?logo=github)
 ![Domain](https://img.shields.io/badge/domain-Natural%20Gas%20Volatility-0b7285)
 ![Market](https://img.shields.io/badge/market-Henry%20Hub-1864ab)
 ![Focus](https://img.shields.io/badge/focus-Forecasting%20Inference-5c7cfa)
+![Modeling](https://img.shields.io/badge/modeling-GARCH%2FStochastic%20Volatility-f59f00)
 
 ![Workflow](https://img.shields.io/badge/workflow-Exploratory%20→%20Backtest%20→%20Inference-7950f2)
 ![Notebooks](https://img.shields.io/badge/notebooks-Volatility%20Forecasting%20Pipeline-6741d9)
