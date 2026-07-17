@@ -8,8 +8,6 @@
 
 ![Workflow](https://img.shields.io/badge/workflow-Exploratory%20→%20Backtest%20→%20Inference-7950f2)
 ![Notebooks](https://img.shields.io/badge/notebooks-Volatility%20Forecasting%20Pipeline-6741d9)
-![Reproducible](https://img.shields.io/badge/reproducible-Yes-2b8a3e)
-
 
 A research‑driven, production‑ready analytics framework for forecasting natural gas volatility and translating market signals into hedge timing and risk insights for decision-making.  
 
