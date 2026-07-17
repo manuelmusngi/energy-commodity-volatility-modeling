@@ -1,5 +1,25 @@
 #### 🌐 Natural Gas Volatility Forecasting Inference
 
+![Domain](https://img.shields.io/badge/domain-Natural%20Gas%20Volatility-0b7285)
+![Market](https://img.shields.io/badge/market-Henry%20Hub-1864ab)
+![Focus](https://img.shields.io/badge/focus-Forecasting%20Inference-5c7cfa)
+![Modeling](https://img.shields.io/badge/modeling-GARCH%2FStochastic%20Volatility-f59f00)
+
+![Repo](https://img.shields.io/badge/repo-energy--commodity--volatility--modeling-171717?logo=github)
+![Domain](https://img.shields.io/badge/domain-Natural%20Gas%20Volatility-0b7285)
+![Market](https://img.shields.io/badge/market-Henry%20Hub-1864ab)
+![Focus](https://img.shields.io/badge/focus-Forecasting%20Inference-5c7cfa)
+
+![Workflow](https://img.shields.io/badge/workflow-Exploratory%20→%20Backtest%20→%20Inference-7950f2)
+![Notebooks](https://img.shields.io/badge/notebooks-Volatility%20Forecasting%20Pipeline-6741d9)
+![Reproducible](https://img.shields.io/badge/reproducible-Yes-2b8a3e)
+
+![Status](https://img.shields.io/badge/status-Active-success)
+![License](https://img.shields.io/badge/license-MIT-informational)
+![Issues](https://img.shields.io/github/issues/manuelmusngi/energy-commodity-volatility-modeling)
+![Last%20Commit](https://img.shields.io/github/last-commit/manuelmusngi/energy-commodity-volatility-modeling)
+
+
 A research‑driven, production‑ready analytics framework for forecasting natural gas volatility and translating market signals into hedge timing and risk insights for decision-making.  
 
 This project integrates fundamentals, storage dynamics, and market structure into a modular Python pipeline designed for quantitative research, risk management, and trading decision support.
