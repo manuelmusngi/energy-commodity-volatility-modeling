@@ -14,11 +14,6 @@
 ![Notebooks](https://img.shields.io/badge/notebooks-Volatility%20Forecasting%20Pipeline-6741d9)
 ![Reproducible](https://img.shields.io/badge/reproducible-Yes-2b8a3e)
 
-![Status](https://img.shields.io/badge/status-Active-success)
-![License](https://img.shields.io/badge/license-MIT-informational)
-![Issues](https://img.shields.io/github/issues/manuelmusngi/energy-commodity-volatility-modeling)
-![Last%20Commit](https://img.shields.io/github/last-commit/manuelmusngi/energy-commodity-volatility-modeling)
-
 
 A research‑driven, production‑ready analytics framework for forecasting natural gas volatility and translating market signals into hedge timing and risk insights for decision-making.  
 
