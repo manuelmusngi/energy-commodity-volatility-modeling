@@ -38,42 +38,6 @@ All analytics are orchestrated within a single, fully documented Jupyter noteboo
 #### 🚀 Key Takeaway
 This repository demonstrates how academic volatility concepts can be transformed into a practical hedge‑timing and risk analytics tool for natural gas markets—balancing rigor, interpretability, and operational relevance.
 
-#### 🧩 Pipeline Notebook Architecture
-A modular, notebook‑centric design that mirrors production analytics systems:
-
- - [0. Notebook metadata](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/0.%20Notebook%20metadata)
-
- - [1. Imports, paths, and config](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/1.%20Imports%2C%20paths%2C%20and%20config)
-
-- 📥 Data Ingestion  
-  Futures prices, futures curves, storage levels, fundamentals, and weather proxies
-  
-  [2. Data ingestion](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/2.%20Data%20ingestion)
-
-- 🛠️ Feature Engineering  
-  Realized volatility, curve shape metrics, storage surprises, and regime indicators
-
-  [3. Feature engineering](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/3.%20Feature%20engineering)
-
-- 📈 Modeling & Forecasting   
-  Linear HAR‑style regressions and non‑linear machine learning models
-
-  [4. Modeling and forecasting](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/4.%20Modeling%20and%20forecasting)
-
-- 🔍 Volatility Regimes  and  ⏱️ Hedge Timing Logic  
-  - Classification of low, medium, and high volatility environments
-  
-  - Translating forecasts into actionable hedge bias signals
-
-  [5. Volatility regimes and hedge timing](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/5.%20Volatility%20regimes%20and%20hedge%20timing)
-
-
-- ⚖️ Risk Interpretation 
-  - Linking volatility forecasts to P&L dispersion and risk views
-
-  [6. Risk view and simple P&L dispersion](https://github.com/manuelmusngi/Natural-Gas-Volatility-Forecasting-Hedge-Timing/blob/main/6.%20Risk%20view%20and%20simple%20P%26L%20dispersion)
-
-
 #### 🏗️ Project Architecture
 ng-volatility-forecasting/\
 ├── README.md\
