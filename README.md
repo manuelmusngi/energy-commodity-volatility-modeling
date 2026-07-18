@@ -16,6 +16,9 @@ Build an end‑to‑end volatility forecasting system that:
 - Identifies volatility regimes relevant for hedge timing
 - Bridges academic research and real‑world risk workflows
 
+#### 🚀 Key Takeaway
+This repository demonstrates how academic volatility concepts can be transformed into a practical hedge‑timing and risk analytics tool for natural gas markets—balancing rigor, interpretability, and operational relevance.
+
 
 #### 🧠 Research Reference Foundation
 Grounded in peer‑reviewed and working‑paper literature on natural gas markets, storage dynamics, and volatility modeling, including:
@@ -35,8 +38,6 @@ The implementation reflects a reduced‑form, data‑driven interpretation of th
 
 All analytics are orchestrated within a single, fully documented Jupyter notebook, making the project easy to review, extend, and adapt.
 
-#### 🚀 Key Takeaway
-This repository demonstrates how academic volatility concepts can be transformed into a practical hedge‑timing and risk analytics tool for natural gas markets—balancing rigor, interpretability, and operational relevance.
 
 #### 🏗️ Project Architecture
 ng-volatility-forecasting/\
